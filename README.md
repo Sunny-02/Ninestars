@@ -1,2 +1,2 @@
 # Ninestars
-HTML, CSS, BOOTSTRAP
+HTML, CSS
